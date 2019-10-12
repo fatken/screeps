@@ -158,7 +158,6 @@ module.exports.loop = function(){
 */
         //
 
-//test vscode connection
 
         console.log("before name");
         console.log(name);
